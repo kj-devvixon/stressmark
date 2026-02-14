@@ -1,4 +1,4 @@
-(StressMark Logo)[logo_sm.png]
+![StressMark Logo](logo_sm.png)
 # StressMark
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
