@@ -1,0 +1,35 @@
+# Build directories
+build/
+bin/
+obj/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+stress_test
+*.out
+*.app
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile.cmake
+*.cmake
+!CMakeLists.txt
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+
+# System files
+.directory
+Thumbs.db
